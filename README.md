@@ -10,3 +10,5 @@ Responsive quotes generator using async to fetch data from free a quotes api.
 # Resources
 * [Font Awesome](www.fontawesome.com)
 * [Free quotes api](type.fit/api/quotes)
+
+https://bolattt.github.io/quote-generator/ 
